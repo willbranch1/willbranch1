@@ -2,9 +2,9 @@
 
 ## Software Development Projects:
 
-### Internship Projects:
+### Select Internship Projects:
 - [Water Meter Tracker](url)
-### School Projects:
+### Relevant School Projects:
 - [Tag Cloud Generator](https://github.com/willbranch1/TagCloudGenerator.git)
 ### Independent Projects:
 
