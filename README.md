@@ -7,7 +7,7 @@
 ### Relevant School Projects:
 - [Tag Cloud Generator](https://github.com/willbranch1/TagCloudGenerator.git)
 ### Independent Projects:
-
+- [Remote Controlled Robot](https://github.com/willbranch1/Remote-Control-Robot)
 ## Certifications:
 
 ## Connect with me!
