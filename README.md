@@ -5,7 +5,7 @@
 ### Select Internship Projects:
 - [Water Meter Tracker](url)
 ### Relevant School Projects:
-- [Tag Cloud Generator](https://github.com/willbranch1/TagCloudGenerator.git)
+- [Tag Cloud Generator](https://github.com/willbranch1/Tag-Cloud-Generator.git)
 - [C Demonstrations](https://github.com/willbranch1/Miscellaneous-C-Projects)
 ### Independent Projects:
 - [Remote Controlled Robot](https://github.com/willbranch1/Remote-Control-Robot)
