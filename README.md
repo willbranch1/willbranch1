@@ -3,7 +3,7 @@
 ## Software Development Projects:
 
 ### Select Internship Projects:
-- [Web Interfaced Water Software](url)
+- [Web Connected Water Tracking Software](url)
 - [Rental Website](url)
 ### Relevant(Maybe Select?) School Projects:
 - [Tag Cloud Generator](https://github.com/willbranch1/Tag-Cloud-Generator.git)
