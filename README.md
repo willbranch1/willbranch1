@@ -4,7 +4,7 @@
 
 ### Select Internship Projects:
 - [Water Meter Tracker](url)
-### Relevant School Projects:
+### Relevant(Maybe Select?) School Projects:
 - [Tag Cloud Generator](https://github.com/willbranch1/Tag-Cloud-Generator.git)
 - [C Demonstrations](https://github.com/willbranch1/Miscellaneous-C-Projects)
 ### Independent Projects:
