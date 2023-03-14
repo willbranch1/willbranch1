@@ -3,7 +3,7 @@
 ## 👨‍💻Software Development Projects:
 
 ### Select Internship Projects:
-- [Web Connected Water Tracking Software](https://github.com/willbranch1/Water-Tracking-System)
+- [Water Tracking Software](https://github.com/willbranch1/Water-Tracking-System)
 - [Rental Website](url)
 ### Select School Projects:
 - [Tag Cloud Generator](https://github.com/willbranch1/Tag-Cloud-Generator.git)
