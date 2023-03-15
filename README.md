@@ -4,7 +4,7 @@
 
 ### Select Internship Projects:
 - [Water Tracking Software](https://github.com/willbranch1/Water-Tracking-System)
-- [Rental Website](url)
+- [Rental Website](https://github.com/willbranch1/Rental-Website)
 ### Select School Projects:
 - [Tag Cloud Generator](https://github.com/willbranch1/Tag-Cloud-Generator.git)
 - [C Demonstrations](https://github.com/willbranch1/Miscellaneous-C-Projects)
