@@ -8,6 +8,7 @@
 ### Independent Projects:
 - [Remote Controlled Robot](https://github.com/willbranch1/Remote-Control-Robot)
 ### Select School Projects:
+- [C Sorting Algorithms](https://github.com/willbranch1/C-Sorting-Algorithms)
 - [Tag Cloud Generator](https://github.com/willbranch1/Tag-Cloud-Generator.git)
 - [C Demonstrations](https://github.com/willbranch1/Miscellaneous-C-Projects)
 ## 🤳Connect with me!
