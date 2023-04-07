@@ -2,11 +2,12 @@
 
 ## 👨‍💻Software Development Projects:
 
+### Independent Projects:
+- [Remote Controlled Robot](https://github.com/willbranch1/Remote-Control-Robot)
+- [Facial Recognition API](https://github.com/willbranch1/Facial-Recognition-API)
 ### Select Internship Projects:
 - [Water Tracking Software](https://github.com/willbranch1/Water-Tracking-System)
 - [Rental Website](https://github.com/willbranch1/Rental-Website)
-### Independent Projects:
-- [Remote Controlled Robot](https://github.com/willbranch1/Remote-Control-Robot)
 ### Select School Projects:
 - [C Sorting Algorithms](https://github.com/willbranch1/C-Sorting-Algorithms)
 - [Tag Cloud Generator](https://github.com/willbranch1/Tag-Cloud-Generator.git)
