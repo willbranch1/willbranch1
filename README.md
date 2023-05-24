@@ -5,6 +5,7 @@
 ### Independent Projects:
 - [Remote Controlled Robot](https://github.com/willbranch1/Remote-Control-Robot)
 - [Facial Recognition API](https://github.com/willbranch1/Facial-Recognition-API)
+- [Sudoku Solver](https://github.com/willbranch1/Sudoku-Solver)
 ### Select Internship Projects:
 - [Water Tracking Software](https://github.com/willbranch1/Water-Tracking-System)
 - [Rental Website](https://github.com/willbranch1/Rental-Website)
