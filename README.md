@@ -5,11 +5,11 @@
 ### Independent Projects:
 - [Remote Controlled Robot](https://github.com/willbranch1/Remote-Control-Robot)
 - [Facial Recognition API](https://github.com/willbranch1/Facial-Recognition-API)
-- [Sudoku Solver](https://github.com/willbranch1/Sudoku-Solver)
 ### Select Internship Projects:
 - [Water Tracking Software](https://github.com/willbranch1/Water-Tracking-System)
 - [Rental Website](https://github.com/willbranch1/Rental-Website)
 ### Select School Projects:
+- [Sudoku Solver](https://github.com/willbranch1/Sudoku-Solver)
 - [C Sorting Algorithms](https://github.com/willbranch1/C-Sorting-Algorithms)
 - [Tag Cloud Generator](https://github.com/willbranch1/Tag-Cloud-Generator.git)
 - [C Demonstrations](https://github.com/willbranch1/Miscellaneous-C-Projects)
