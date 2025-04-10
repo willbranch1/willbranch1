@@ -1,6 +1,6 @@
 # Hi, I'm William!
 ## Data Science Projects:
-- [Assessing Visual Reasoning of LLMs]
+- [Assessing Visual Reasoning of LLMs](https://github.com/willbranch1/assessing_visual_reasoning)
 ## Software Development Projects:
 - [Remote Controlled Robot](https://github.com/willbranch1/Remote-Control-Robot)
 - [Facial Recognition API](https://github.com/willbranch1/Facial-Recognition-API)
