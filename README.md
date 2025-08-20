@@ -1,6 +1,7 @@
 # Hi, I'm William!
 ## Data Science Projects:
-- [MS RAG](https://github.com/willbranch1/ms_rag)
+- [Modality Split Retrieval Augmented Generation (MS-RAG)](https://github.com/willbranch1/ms_rag)
+- [NFL Rookie Analyzer](https://github.com/willbranch1/rookie_analyzer)
 ## Software Development Projects:
 - [Remote Controlled Robot](https://github.com/willbranch1/Remote-Control-Robot)
 - [Facial Recognition API](https://github.com/willbranch1/Facial-Recognition-API)
